@@ -1,4 +1,8 @@
 ## Hi there 👋
+Hi! I'm Chloe and I like to code!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChloeSVillaranda&hide_progress=false&theme=dark&layout=compact)
+
 
 <!--
 **ChloeSVillaranda/ChloeSVillaranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

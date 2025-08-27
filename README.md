@@ -1,5 +1,5 @@
-## Hi there 👋
-Hi! I'm Chloe, and I like to code! 🤩🤩🤩
+## Hi there 👋👋👋
+Hello! I'm Chloe, and I like to code! 🤩🤩🤩
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChloeSVillaranda\&layout=pie)](https://github.com/ChloeSVillaranda/github-readme-stats)
 

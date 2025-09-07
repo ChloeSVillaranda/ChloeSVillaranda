@@ -1,6 +1,9 @@
 ## Hi there 👋
 Hello! I'm Chloe, and I like to code! 🤩🤩🤩
 
+Check out my portfolio here:
+https://chloesvillaranda.github.io/portfolio/
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChloeSVillaranda\&layout=pie)](https://github.com/ChloeSVillaranda/github-readme-stats)
 
 

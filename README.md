@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hello! I'm Chloe, and I like to code! 🤩🤩🤩🤩🤩
+Hello! I'm Chloe, and I like to code! 🤩🤩🤩
 
 Check out my portfolio here:
 https://chloesvillaranda.github.io/portfolio/

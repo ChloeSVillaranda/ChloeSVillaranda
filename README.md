@@ -4,7 +4,7 @@ Hello! I'm Chloe, and I love to code! 🤩🤩
 Check out my portfolio here:
 https://chloesvillaranda.github.io/portfolio/
 
-Want to see my git aliases setup? Take a look [here](https://github.com/ChloeSVillaranda/ChloeSVillaranda/blob/main/git-aliases.md)!
+Want to see my git aliases setup??? Take a look [here](https://github.com/ChloeSVillaranda/ChloeSVillaranda/blob/main/git-aliases.md)!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChloeSVillaranda\&layout=pie)](https://github.com/ChloeSVillaranda/github-readme-stats)
 
